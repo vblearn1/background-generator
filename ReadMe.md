@@ -1,4 +1,4 @@
 # Demo file
 
-Some descriptions added!! \n
+Some descriptions added!!
 Added another line.
